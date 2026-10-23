@@ -187,7 +187,7 @@ nav > a {
 
 /* Tablet */
 @media screen and (max-width: 768px) {
-    #item {
+    .item {
     background-color:  #f8e6c8;
     display: flex;
     flex-direction: column;
@@ -199,12 +199,12 @@ nav > a {
 
 /* Mobile */
 @media screen and (max-width: 480px) {
-   #item {
+   .item {
     margin: 2%
 }
 }
 
-#item > img {
+.item > img {
     width: 100%;
     margin: 1%;
     border-radius: 0px;
@@ -215,7 +215,7 @@ nav > a {
     font-size: 0.8rem;
 }
 
-#item > p {
+.item > p {
     margin-inline: 15%;
     margin-bottom: 15%;
 }
