@@ -240,6 +240,24 @@ nav > a {
     width: 100%;
 }
 
+/* Tablet */
+@media screen and (max-width: 768px) {
+    #contact > div {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+}
+
+/* Mobile */
+@media screen and (max-width: 480px) {
+   #contact > div {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+}
+
 #contact-text {
     display: flex;
     flex-direction: column;
