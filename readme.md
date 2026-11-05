@@ -8,10 +8,10 @@ as the course material asks. Upload the module folders to users.metropolia.fi an
 ## My links at users.metropolia.fi
 
 - HTML and CSS: https://users.metropolia.fi/~karolyng/html-css/
-- JS modules 1 and 2: https://users.metropolia.fi/~username/js-1-2/
-- JS module 3: https://users.metropolia.fi/~username/js-3/
-- JS module 4: https://users.metropolia.fi/~username/js-4/
-- JS module 5: https://users.metropolia.fi/~username/js-5/
+- JS modules 1 and 2: https://users.metropolia.fi/~karolyng/js-1-2/
+- JS module 3: https://users.metropolia.fi/~karolyng/js-3/
+- JS module 4: https://users.metropolia.fi/~karolyng/js-4/
+- JS module 5: https://users.metropolia.fi/~karolyng/js-5/
 
 Add notes about any problems or extra features here.
 
@@ -21,13 +21,13 @@ Add notes about any problems or extra features here.
 
 _This list is updated automatically by the Metropolia ICT extension._
 
-### HTML and CSS: company website (6.75 / 8 points)
+### HTML and CSS: company website (8 / 8 points)
 
 - 1. Company website: ✔ completed, 4/4 test points (`html-css/index.html`)
 - 2. Get feedback from the HTML+CSS checker: ✔ completed, 1/1 test points (`html-css/`)
-- 3. Publish, push and submit your links: ◐ partially completed, 1.75/3 test points
+- 3. Publish, push and submit your links: ✔ completed, 3/3 test points
 
-### JS modules 1 and 2: Interactive programs and control structures (27 / 30 points)
+### JS modules 1 and 2: Interactive programs and control structures (30 / 30 points)
 
 - 1. Print to the console: ✔ completed, 1/1 test points (`js-1-2/assignment-1/assignment-1.js`)
 - 2. Greeting: ✔ completed, 2/2 test points (`js-1-2/assignment-2/assignment-2.js`)
@@ -39,5 +39,6 @@ _This list is updated automatically by the Metropolia ICT extension._
 - 8. Leap years in a list: ✔ completed, 3/3 test points (`js-1-2/assignment-8/assignment-8.js`)
 - 9. Prime number: ✔ completed, 2/2 test points (`js-1-2/assignment-9/assignment-9.js`)
 - 10. Dice probability by simulation: ✔ completed, 5/5 test points (`js-1-2/assignment-10/assignment-10.js`)
+- 11. Publish, push and submit your links: ✔ completed, 3/3 test points
 
 <!-- metropolia:progress:end -->
