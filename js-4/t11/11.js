@@ -113,7 +113,7 @@ let span = document.querySelector("span");
 
 let articles = document.querySelectorAll(".card"); /* SelectAll to select all cards */
 
-for (let i = 0; i < picArray.length; i++) { /* This to make the correct pic run under the corresponding article */
+for (let i = 0; i < picArray.length; i++) { /* This to make the click of each article trigger the same action but with the correct pic run under the corresponding modal */
 
   articles[i].addEventListener("click", open_dialog_with_modal);
 
